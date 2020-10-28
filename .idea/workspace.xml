@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a007c3c9-cdc6-42ee-92b6-8b6b830829a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/user-info-app/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/user-info-app/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-info-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/user-info-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-info-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/user-info-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-info-app/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/user-info-app/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-info-app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/user-info-app/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-info-app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/user-info-app/src/app/app.module.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/user-info-app" />
+  </component>
+  <component name="ProjectId" id="1ivJpM4055h1KENgfYvOkk4fVQB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="E:\angular-ws\user-info-app\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a007c3c9-cdc6-42ee-92b6-8b6b830829a4" name="Default Changelist" comment="" />
+      <created>1602782314220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602782314220</updated>
+      <workItem from="1602782315327" duration="1047000" />
+      <workItem from="1602811304014" duration="11350000" />
+      <workItem from="1602825198642" duration="6000" />
+      <workItem from="1602860370964" duration="1101000" />
+      <workItem from="1602862817487" duration="1503000" />
+      <workItem from="1602865914151" duration="70000" />
+      <workItem from="1602866001301" duration="3541000" />
+      <workItem from="1602908084719" duration="1176000" />
+      <workItem from="1602967554427" duration="1963000" />
+      <workItem from="1602981202785" duration="11654000" />
+      <workItem from="1603029422384" duration="18677000" />
+      <workItem from="1603077226093" duration="3197000" />
+      <workItem from="1603122673340" duration="3029000" />
+      <workItem from="1603157599718" duration="416000" />
+      <workItem from="1603159580812" duration="6116000" />
+      <workItem from="1603216363943" duration="443000" />
+      <workItem from="1603252603441" duration="1711000" />
+      <workItem from="1603335688753" duration="1656000" />
+      <workItem from="1603843758858" duration="3660000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603167263613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603167263613" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603336244266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603336244266" />
+  </component>
+</project>
